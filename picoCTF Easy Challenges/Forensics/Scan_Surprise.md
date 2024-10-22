@@ -22,7 +22,7 @@ Opening the image give us QR code. There is 2 way you can get the flag using the
   
 After scaninning you should get the flag:
 ```
-picocTF{SPOILER}
+picoCTF{SPOILER}
 ```
 ### Side note
 zbarimg is from zbar-tools, not a pre-installed package, you can install it in terminal. 
