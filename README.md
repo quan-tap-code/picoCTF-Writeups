@@ -12,3 +12,5 @@ FYI I use Kali Linux with some pre-installed packages. You can use vitural machi
 # Spoiler
 
 I will not show the flag entirely, I'll only show how to get the flag step by step. Sometimes, the step may contains some portions of the flag.
+
+I will show the flag in the form: **picoCTF{SPOILER}**
