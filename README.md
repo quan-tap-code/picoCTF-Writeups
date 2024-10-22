@@ -3,6 +3,8 @@ This is my writeups for [picoCTF](https://play.picoctf.org/practice) challenges.
 
 I categorized the challenges based on their difficulty. I will categorized them based on their released year in the future.
 
+FYI I use Kali Linux with some pre-installed packages. You can use vitural machine or dual boot any linux distro.
+
 # Challenges
 
 [picoCTF Easy Challenges](https://github.com/quan-tap-code/picoCTF-Writeups/tree/main/picoCTF%20Easy%20Challenges)
