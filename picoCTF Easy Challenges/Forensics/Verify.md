@@ -6,44 +6,44 @@ Challenge link: https://play.picoctf.org/practice/challenge/450
 
 ## Solution
 ### Download the file given by the challenge
-Use **wget { url }** in Terminal to download the file.
+Use `wget { url }` in Terminal to download the file.
 ```bash
 wget https://artifacts.picoctf.net/c_rhea/21/challenge.zip
 ```
 ### Unpack the file and do some analysis
-Unpack the file by using **unzip { file }** in Terminal.
+Unpack the file by using `unzip { file }` in Terminal.
 ```bash
 unzip challenge.zip
 ```
-As the Terminal unzip the file we notice we handling with a lot of files. We can use **cd** to jump in the folder which has the file called **checksum.txt**.    
+As the Terminal unzip the file we notice we handling with a lot of files. We can use `cd` to jump in the directory which has the file called `checksum.txt`.  
 
-Use **cat { file }** to print out the txt in Terminal.
+Use `cat { file }` to print out the txt in Terminal.
 ```bash
 cat checksum.txt
 ```
 It should print out the hash they asking us to look for.
 
-Alternatively, you can use the following in Terminal if you don't want to use **cd** ( {.} respresent the folder you downloaded the original zip file ).
+Alternatively, you can use the following in Terminal if you don't want to use `cd` ( {.} respresent the directory you downloaded the original zip file ).
 ```bash
 cat ./home/ctf-player/drop-in/checksum.txt
 ```
-The challenge ask us to find the file which has the right hash. Using **sha256sum { file } or sha256sum {directory}/*** to check the hash of a file or a directory.
+The challenge ask us to find the file which has the right hash. Using `sha256sum { file } or sha256sum {directory}/*` to check the hash of a file or a directory.
 ```bash
 sha256sum home/ctf-player/drop-in/files/*
 ```
-Hmm, there are too many file thus there are lots of hashes. We could use **grep** to find our file.
+Hmm, there are too many file thus there are lots of hashes. We could use `grep` to find our file.
 ```bash
 sha256sum home/ctf-player/drop-in/files/* | grep { hash }
 ```
 The Terminal should return us with the file which has the hash we need to find ( change { hash } to the hash in checksum.txt before ).
 
-We can try to read the file using **cat** again.
+We can try to read the file using `cat` again.
 ```bash
 cat ./files/{ file }
 ```
 The Terminal print out a bunch of weird characters. It appears the flag is encrypted.
 
-Notice there is another file in drop-in folder alongside with checksum.txt called **decrypt.sh**. After reading it with **cat** we could see that it is a decrypting script which required a file path. 
+Notice there is another file in drop-in directory alongside with checksum.txt called `decrypt.sh`. After reading it with `cat` we could see that it is a decrypting script which required a file path. 
 
 Combine with the file we just found we could use the following to get the flag.
 ```bash
