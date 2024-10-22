@@ -55,7 +55,7 @@ openssl enc -d -aes-256-cbc -pbkdf2 -iter 100000 -salt -in files/{file} -k picoC
 ```
 It should print out our flag which should look like this.
 ```
-picoCTF{SPOILERS}
+picoCTF{SPOILER}
 ```
 
 # Documentation
