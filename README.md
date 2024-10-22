@@ -5,7 +5,7 @@ I categorized the challenges based on their difficulty. I will categorized them 
 
 # Challenges
 
-[picoCTF Easy Challenges]([url](https://github.com/quan-tap-code/picoCTF-Writeups/tree/main/picoCTF%20Easy%20Challenges))
+[picoCTF Easy Challenges](https://github.com/quan-tap-code/picoCTF-Writeups/tree/main/picoCTF%20Easy%20Challenges)
 
 # Spoiler
 
