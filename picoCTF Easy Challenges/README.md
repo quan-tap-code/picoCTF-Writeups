@@ -4,6 +4,8 @@
 [Scan Surprise](Forensics/Scan_surprise.md)
 
 [Secret of the Polyglot](Forensics/Secret_of_the_polyglot.md)
+
+[CanYouSee](Forensics/Canyousee.md)
 # Web Exploitation
 # Cryptography
 # Reverse Engineering
