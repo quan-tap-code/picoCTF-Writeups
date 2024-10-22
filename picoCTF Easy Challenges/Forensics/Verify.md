@@ -67,5 +67,7 @@ picoCTF{SPOILER}
 
 [cat - Manual page](https://linux.die.net/man/1/cat)
 
+[wget - Manual page](https://linux.die.net/man/1/wget)
+
 
 
