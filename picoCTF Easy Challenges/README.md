@@ -11,6 +11,7 @@
 
 [Glory of the Garden](Forensics/Glory_of_the_garden.md)
 # Web Exploitation
+[WebDecode](Web_Exploitation/Web_decode.md)
 # Cryptography
 # Reverse Engineering
 # General Skills
