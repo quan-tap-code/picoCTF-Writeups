@@ -9,5 +9,5 @@ Use `wget { url }` in Terminal to download the file.
 wget https://jupiter.challenges.picoctf.org/static/4153422e18d40363e7ffc7e15a108683/garden.jpg
 ```
 ### Analyze the file
-We could see that we got a `.jpg` file. Us
+We could see that we got a `.jpg` file. We try to use `exiftool` on the file to see if there are anything
 
