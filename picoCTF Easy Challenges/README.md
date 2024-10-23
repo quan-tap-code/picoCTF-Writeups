@@ -9,7 +9,7 @@
 
 [information](Forensics/information.md)
 
-[Glory of the Garden](Forensics/Glory_of_the_garden)
+[Glory of the Garden](Forensics/Glory_of_the_garden.md)
 # Web Exploitation
 # Cryptography
 # Reverse Engineering
