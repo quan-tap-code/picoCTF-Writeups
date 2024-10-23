@@ -50,7 +50,7 @@ All of the data seem normal except the `Attribution URL` which isn't a URL. Inst
 
 We could guess the flag is [base64-encoded](https://en.wikipedia.org/wiki/Base64)
 
-Using `CyberChef` website with `Magic Recipe` we can decode and get the flag
+Using [CyberChef](https://gchq.github.io/CyberChef/) we can decode and get the flag
 
 ![image](https://github.com/user-attachments/assets/860168ee-3efb-4f2f-90d3-dcc02fd1e763)
 
@@ -68,7 +68,7 @@ picoCTF{SPOILER}
 
 [base64 - Manual page](https://linux.die.net/man/1/base64)
 
-[CyberChef](https://gchq.github.io/CyberChef/)
+
 
 
 
