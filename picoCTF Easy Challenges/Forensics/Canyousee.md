@@ -60,6 +60,8 @@ echo "cGljb0NURntNRTc0RDQ3QV9ISUREM05fZGVjYTA2ZmJ9Cg==" | base64 -d
 picoCTF{SPOILER}
 ```
 ## Documentation 
+[wget - Manual page](https://linux.die.net/man/1/wget)
+
 [exiftool - Manual page](https://linux.die.net/man/1/exiftool)
 
 [wget - Manual page](https://linux.die.net/man/1/wget)
