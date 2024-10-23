@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/183aa684-5dc3-427f-ade4-b526e7491a21)# information
+# information
 Challenge link: https://play.picoctf.org/practice/challenge/186
 - [Solution](#solution)
 - [Documentation](#documentation)
