@@ -54,6 +54,8 @@ Alternatively, we could use `base64` in terminal to decode.
 
 ```bash
 echo "cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9" | base64 -d
+```
+```bash
 picoCTF{SPOILER}
 ```
 ## Documentation
