@@ -57,6 +57,8 @@ Using [CyberChef](https://gchq.github.io/CyberChef/) we can decode and get the f
 or we could use the terminal to decode using `base64`
 ```
 echo "cGljb0NURntNRTc0RDQ3QV9ISUREM05fZGVjYTA2ZmJ9Cg==" | base64 -d
+```
+```bash
 picoCTF{SPOILER}
 ```
 ## Documentation 
