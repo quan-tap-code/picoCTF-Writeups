@@ -39,6 +39,13 @@
 
 [where are the robots](Web_Exploitation/where_are_the_robots.md)
 # Cryptography
+[interencdec](Cryptography/interencdec.md)
+
+[The Numbers](Cryptography/The_numbers.md)
+
+[Mod 26](Cryptography/Mod_26.md)
+
+[13](Cryptography/13.md)
 # Reverse Engineering
 # General Skills
 # Binary Exploitation
