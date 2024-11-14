@@ -66,8 +66,6 @@ picoCTF{SPOILER}
 
 [exiftool - Manual page](https://linux.die.net/man/1/exiftool)
 
-[wget - Manual page](https://linux.die.net/man/1/wget)
-
 [base64 - Manual page](https://linux.die.net/man/1/base64)
 
 
