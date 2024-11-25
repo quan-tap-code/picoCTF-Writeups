@@ -30,7 +30,7 @@ echo "d3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrX2kyMDRoa2o2fQ==" | base64 -d
 ```bash
 wpjvJAM{jhlzhy_k3jy9wa3k_i204hkj6} 
 ```
-Now the message looks like a flag but it isn't. It's still encoded, mayber with `Rotation Cipher`. There are many decoder online that we could use to get the flag.
+Now the message looks like a flag but it isn't. It's still encoded, maybe with `Rotation Cipher`. There are many decoder online that we could use to get the flag.
 `picoCTF{SPOILER}`
 ## Documentation
 [wget - Manual page](https://linux.die.net/man/1/wget)
