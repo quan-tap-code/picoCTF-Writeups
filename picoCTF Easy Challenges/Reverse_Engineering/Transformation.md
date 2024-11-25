@@ -62,7 +62,7 @@ print(decode_flag(enc_flag))
 ```
 Running the program give us the flag.
 `picoCTF{SPOILER}`
-##Documentation
+## Documentation
 [Bitwise in Python](https://www.geeksforgeeks.org/python-bitwise-operators/)
 
 [wget - Manual page](https://linux.die.net/man/1/wget)
