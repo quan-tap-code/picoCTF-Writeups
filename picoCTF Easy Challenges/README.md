@@ -48,5 +48,7 @@
 [13](Cryptography/13.md)
 # Reverse Engineering
 [Transformation](Reverse_Engineering/Transformation.md)
+
+[vault-door-training](Reverse_Engineering/vault_door_training.md)
 # General Skills
 # Binary Exploitation
